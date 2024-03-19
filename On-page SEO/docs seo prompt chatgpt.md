@@ -1,0 +1,2 @@
+User
+in this url "https://docs.dyte.io/android-core/plugins" add the keyword "Plugins in Android " as many times as possible , do not add  any new sections, add  the keyword in the best suitable place in the already existing content i.e meta title , meta description and body , make sure not to disrupt the actual content and flow of the information , do not change the existing content and its meaning , make it SEO friendly and give me the best draft for meta title , meta description and in the body. 
